@@ -21,7 +21,7 @@ This Node.js application generates a CV in PDF format using information from a G
 2. Go to the following URL, replacing `your_github_username` with your GitHub username:
 
     ```
-    https://your-app-name.onrender.com/generate-cv?username=your_github_username
+    https://github-cv-generator.onrender.com/generate-cv?username=your_github_username
     ```
 
 3. The server will generate a PDF CV using the GitHub data and prompt you to download it.
@@ -31,7 +31,7 @@ This Node.js application generates a CV in PDF format using information from a G
 If your GitHub username is `octocat`, navigate to:
 
 ```
-https://your-app-name.onrender.com/generate-cv?username=octocat
+https://github-cv-generator.onrender.com/generate-cv?username=octocat
 ```
 
 The application will generate a PDF CV for the user `octocat` and prompt you to download it.
